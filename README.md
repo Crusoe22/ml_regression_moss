@@ -6,6 +6,8 @@ This project focuses on predicting the insurance charges of individuals based on
 
 ---
 
+### Link to notebook: https://github.com/Crusoe22/ml_regression_moss/blob/main/regression_moss.ipynb  
+
 ### Set up the virtual environment in the terminal:
 ``` shell
 python3 -m venv .venv
@@ -20,7 +22,6 @@ Install requirements
 py -m pip install -r requirements.txt
 ```
 
-Link to notebook: https://github.com/Crusoe22/ml_regression_moss/blob/main/regression_moss.ipynb  
 
 
 

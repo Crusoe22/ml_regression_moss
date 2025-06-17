@@ -1,4 +1,4 @@
-# Insurance Charges Prediction
+# Insurance Rate Prediction
 
 ## Project Overview
 

@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on predicting the **insurance charges** of individuals based on various features such as **age**, **bmi**, **smoker status**, **region**, and others. The goal is to apply machine learning techniques, including **data preprocessing**, **feature engineering**, and **model evaluation**, to build a predictive model. We explore both **Linear Regression** and **Polynomial Regression** models to compare performance and understand the impact of different approaches on prediction accuracy.
+This project focuses on predicting the insurance charges of individuals based on various features such as **age**, **bmi**, **smoker status**, **region**, and others. The goal is to apply machine learning techniques, including **data preprocessing**, **feature engineering**, and **model evaluation**, to build a predictive model. We explore both **Linear Regression** and **Polynomial Regression** models to compare performance and understand the impact of different approaches on prediction accuracy.
 
 ---
 
@@ -21,7 +21,7 @@ py -m pip install -r requirements.txt
 ```
 
 Link to notebook: https://github.com/Crusoe22/ml_regression_moss/blob/main/regression_moss.ipynb  
-Link to peer review: https://github.com/Crusoe22/ml_regression_moss/blob/main/peer_review.md 
+
 
 
 
